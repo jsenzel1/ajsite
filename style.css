@@ -1,0 +1,122 @@
+html, body {
+    margin: 0;
+  padding: 0;
+  line-height: 1.7;
+  font-family: "Georgia";
+  font-size: 2em;
+  /* text-align: center; */
+    
+  /* width: 95%; */
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.3em;
+}
+
+h2 {
+  font-size: .7em;
+}
+
+h3 {
+  font-size: .6em;
+}
+
+p {
+  font-size: .3em;
+  /* text-align: center; */
+  /* width: 70%; */
+  padding:6%;
+
+}
+
+canvas {
+  display: block;
+}
+
+#aaron {
+  float:left;
+  text-align: center;
+
+  text-align: center;
+
+  background-color:lightskyblue;
+  width:50%;
+  height:100%;
+  overflow: scroll;
+
+}
+
+#intro {
+  
+}
+
+#jonah {
+  float:right;
+  text-align: center;
+  /* text-align: right; */
+  /* margin: 5%; */
+
+  background-color:lightblue;
+  width:50%;
+  height:100%;
+  overflow: scroll;
+}
+
+hr{
+border: none;
+height: 3px;
+width: 70%;
+color: black;
+background-color: black;
+margin-top: .2em;
+margin-bottom: .2em;
+
+}
+
+div{
+  width: 90%;
+  margin: 0 auto;
+}
+
+a{
+
+text-decoration: underline;
+color: black;
+
+}
+
+a:hover {
+text-decoration: none;
+
+
+}
+
+img{
+text-align: center;
+
+/* width: 19%; */
+margin: 0%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  border-radius: 6%;
+}
+
+a{
+  text-decoration: underline;
+  color: black
+  
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  font-style: italic;
+}
